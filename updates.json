@@ -58,7 +58,7 @@ i{
       "date": "06-22-2017, 10:00:00 AM",
       "readme": "no change",
       "name": "rstudio-debian",
-      "version": "v2",
+      "version": "v4",
       "bytes": "GB",
       "tarName": "rstudio-debian.tar.gz",
       "tarSize": "365330884"
