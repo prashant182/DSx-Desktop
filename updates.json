@@ -1,4 +1,4 @@
-i{
+{
   "linux-x64-prod": {
     "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.5/ibm-dsx-desktop.AppImage",
     "version": "1.1.5",
