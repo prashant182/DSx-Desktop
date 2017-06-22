@@ -1,4 +1,4 @@
-{
+i{
   "linux-x64-prod": {
     "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.5/ibm-dsx-desktop.AppImage",
     "version": "1.1.5",
@@ -55,13 +55,13 @@
   "servers": {
     "RStudio with Spark": {
       "size": "2.6",
-      "date": "05-02-2017, 10:00:00 AM",
+      "date": "06-22-2017, 10:00:00 AM",
       "readme": "no change",
       "name": "rstudio-server",
       "version": "v2",
       "bytes": "GB",
-      "tarName": "rstudio-server.tar.gz",
-      "tarSize": "913247879"
+      "tarName": "rstudio-debian.tar.gz",
+      "tarSize": "365330884"
     }
   },
   "docker": {
