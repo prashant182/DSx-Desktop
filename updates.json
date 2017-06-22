@@ -57,7 +57,7 @@ i{
       "size": "2.6",
       "date": "06-22-2017, 10:00:00 AM",
       "readme": "no change",
-      "name": "rstudio-server",
+      "name": "rstudio-debian",
       "version": "v2",
       "bytes": "GB",
       "tarName": "rstudio-debian.tar.gz",
