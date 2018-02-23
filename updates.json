@@ -42,14 +42,14 @@
       "tarSize": "2093696543"
     },
     "Anaconda + Spark (Python 3.5)": {
-      "size": "2.2",
+      "size": "3.0",
       "date": "05-12-2017, 10:00:00 AM",
       "readme": "Supports anaconda python 3.5 with spark 2.1",
-      "name": "ibm-dsx-ana35",
+      "name": "ibm-dsx-ana35-spark",
       "version": "v3",
       "bytes": "GB",
       "tarName": "ibm-dsx-ana35.tar.gz",
-      "tarSize": "2093696543"
+      "tarSize": "14338048"
     },
     "Anaconda + Spark (Python 2.7/3.5, Scala, R)": {
       "size": "3.0",
@@ -115,14 +115,14 @@
         "tarSize": "1303984789"
       },
       "Anaconda (Python 3.5)": {
-        "size": "2.2",
-        "date": "05-12-2017, 10:00:00 AM",
-        "readme": "Support download as html, pdf, ipynb. Support for geopandas, brunel etc.",
-        "name": "ibm-dsx-ana35",
-        "version": "v3",
-        "bytes": "GB",
-        "tarName": "ibm-dsx-ana35.tar.gz",
-        "tarSize": "2093696543"
+         "size": "3.0",
+         "date": "05-12-2017, 10:00:00 AM",
+         "readme": "Supports anaconda python 3.5 with spark 2.1",
+         "name": "ibm-dsx-ana35-spark",
+         "version": "v3",
+         "bytes": "GB",
+         "tarName": "ibm-dsx-ana35.tar.gz",
+         "tarSize": "14338048"
       },
       "Anaconda + Spark (Python 3.5)": {
         "size": "2.2",
