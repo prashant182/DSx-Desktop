@@ -32,7 +32,7 @@
       "tarSize": "1303984789"
     },
     "Anaconda (Python 3.5)": {
-      "size": "2.2",
+      "size": "7.5",
       "date": "05-12-2017, 10:00:00 AM",
       "readme": "Support download as html, pdf, ipynb. Support for geopandas, brunel etc.",
       "name": "ibm-dsx-ana35",
@@ -125,7 +125,7 @@
          "tarSize": "14338048"
       },
       "Anaconda + Spark (Python 3.5)": {
-        "size": "2.2",
+        "size": "7.5",
         "date": "05-12-2017, 10:00:00 AM",
         "readme": "Supports anaconda python 3.5 with spark 2.1",
         "name": "ibm-dsx-ana35",
