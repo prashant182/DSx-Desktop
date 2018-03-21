@@ -65,7 +65,7 @@
   "servers": {
     "RStudio with Spark": {
       "size": "1.0",
-      "date": "05-02-2017, 10:00:00 AM",
+      "date": "05-12-2018, 10:00:00 AM",
       "readme": "no change",
       "name": "rstudio-debian",
       "version": "v4",
@@ -148,7 +148,7 @@
     "servers": {
       "RStudio with Spark": {
         "size": "1.0",
-        "date": "05-10-2017, 10:00:00 AM",
+        "date": "05-10-2018, 10:00:00 AM",
         "readme": "no change",
         "name": "rstudio-server",
         "version": "v2",
